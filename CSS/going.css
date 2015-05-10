@@ -1,0 +1,121 @@
+
+
+body {
+background-image: url(../images/wood3.jpg);  
+background-size: cover;
+
+}
+
+
+
+.welcome-block h1 {
+  font-size: 3em;
+  text-align: center;
+}
+
+
+.nav-head {
+  color: white;
+  font-family: Copperplate;
+  padding-top: 25px;
+}
+
+
+
+
+.nick {
+  font-size: 1em;
+}
+
+
+
+
+.welcome-block #g {
+  color: orange; 
+}
+
+
+
+
+
+
+
+
+#buttons button:hover {
+  border-color: orange;
+  color: orange;
+}
+
+
+
+
+.welcome-block {
+  margin-right: 25px;
+  margin-left:25px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.welcome-block a {
+  text-decoration: none;
+  color: white;
+}
+
+.welcome-block a:hover{
+  color: orange;
+}
+
+// Button Block
+
+
+#button-block {
+	
+
+	
+}
+
+
+#button-block  li {
+  text-align: center;
+  list-style-type: none;
+  display: block;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 70px;
+  font-family: helvetica;
+}
+
+
+
+button {
+  border-width: 4px;
+  border-color: white;
+  background-color: transparent;
+  height: 50px;
+  width: 450px;
+  font-weight: 5px;
+  font-size: 1.75em;
+  color:white;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+
+
+
+#button-block button:hover{
+  border-color: orange;
+  color: orange;
+}
+
+#about {
+  padding-top: 75px;
+}
+
+#about h2{
+  text-align: center;
+  font-family: copperplate;
+  font-size: 2em;
+  color: orange;
+}

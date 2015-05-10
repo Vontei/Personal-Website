@@ -1,0 +1,144 @@
+
+
+body {
+background-image: url(http://hdwyn.com/wallpaper_gray/gray_rails_cross_ties_decline_evening_railway_hd-wallpaper-46374.jpg);  
+background-size: cover;
+}
+
+
+
+.welcome-block h1 {
+  font-size: 3em;
+  text-align: center;
+}
+
+
+.nav-head {
+  color: white;
+  font-family: Copperplate;
+  padding-top: 25px;
+}
+
+
+
+
+.nick {
+  font-size: 1em;
+}
+
+
+
+
+.welcome-block #buttons li {
+  list-style-type: none;
+  display: inline-block;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 105px;
+  font-family: helvetica;
+}
+
+.quote #buttons ul{
+  text-align: center;
+}
+
+
+.welcome-block #g {
+  color: orange; 
+}
+
+
+
+
+button {
+  border-width: 4px;
+  border-color: white;
+  background-color: transparent;
+  padding: 20px 100px 20px 100px;
+  margin: 25px 25px;
+  font-weight: 5px;
+  font-size: 1.75em;
+  color:white;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+
+
+
+#buttons button:hover {
+  border-color: orange;
+  color: orange;
+}
+
+
+
+
+.welcome-block {
+  margin-right: 25px;
+  margin-left:25px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+.welcome-block ul {
+  text-align: center;
+}
+
+
+
+
+
+.welcome-block a {
+  text-decoration: none;
+  color: white;
+}
+
+.welcome-block a:hover{
+  color: orange;
+}
+
+
+
+
+.highlight {
+  background-color: black;
+  color: white;
+}
+
+.quote ul {
+  text-align: center;
+}
+
+.quote {
+  padding-top: 100px;
+  margin-right: 200px;
+  margin-left: 200px;
+  text-align: center;
+  color: white;
+  font-size: 1.5em;
+  font-style: italic;
+
+}
+
+
+#social li{
+  display: inline-block;
+  list-style-type: none;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+#social {
+  padding-top: 20px;
+  padding-bottom: 75px;
+
+}
+
+
+#social ul {
+  text-align: center;
+}
